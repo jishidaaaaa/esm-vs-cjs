@@ -1,0 +1,2 @@
+exports.hoge = "fuga";
+

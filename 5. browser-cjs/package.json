@@ -1,0 +1,17 @@
+{
+  "name": "browser-cjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "16",
+    "typescript": "^4.6.4"
+  }
+}

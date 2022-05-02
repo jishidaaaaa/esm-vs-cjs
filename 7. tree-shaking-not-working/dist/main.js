@@ -1,0 +1,1 @@
+(()=>{var o,r={971:(o,r)=>{r.hoge="hoge",r.fuga="fuga"}},e={};o=function o(t){var g=e[t];if(void 0!==g)return g.exports;var a=e[t]={exports:{}};return r[t](a,a.exports,o),a.exports}(971),console.log(o.hoge)})();
